@@ -1,3 +1,15 @@
-0.0.0.0 youtube.com
-0.0.0.0 instagram.com
-0.0.0.0 linkedin.com
+# Blocklist for Pi-hole
+
+# Block YouTube
+youtube.com
+www.youtube.com
+m.youtube.com
+youtube.co.uk
+youtube.com.br
+
+# Block Instagram
+instagram.com
+www.instagram.com
+api.instagram.com
+instagram.co.uk
+instagram.com.br
